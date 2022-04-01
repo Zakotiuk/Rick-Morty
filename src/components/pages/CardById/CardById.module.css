@@ -1,0 +1,28 @@
+.lcassss{
+    color: blueviolet;
+}
+
+.myCard{
+    width: 70%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    background-color: blanchedalmond;
+  }
+
+.left{
+    display: flex;
+    justify-content: left;
+}
+
+.right{
+    display: flex;
+    justify-content: right;
+}
+
+.cardSt{
+    padding-top: 109px;
+    padding-bottom: 54px;
+    display: flex;
+    justify-content: center;
+}
